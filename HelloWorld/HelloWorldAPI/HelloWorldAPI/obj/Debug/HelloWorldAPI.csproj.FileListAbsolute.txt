@@ -1,0 +1,6 @@
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\bin\Debug\HelloWorldAPI.dll
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\bin\Debug\HelloWorldAPI.pdb
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.csproj.CoreCompileInputs.cache
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
+C:\Users\aash\source\repos\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.csprojResolveAssemblyReference.cache
